@@ -1,0 +1,10 @@
+.input {
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: yellow;
+    color: red;
+    font-family: fantasy;
+    letter-spacing: 3px;
+    box-shadow: 0 0 50px yellow;
+}
